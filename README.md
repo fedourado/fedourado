@@ -1,6 +1,6 @@
 ### Oi, bem-vindo(a) ao meu perfil do GitHub 👋 :woman_technologist:
 
-<img src="https://user-images.githubusercontent.com/102569427/219814019-b9c26c5b-8ad1-4b44-b034-28626e65d18b.png" class="centerImage" alt="Banner" height="300" width="980"></p>
+<img src="https://user-images.githubusercontent.com/102569427/219814019-b9c26c5b-8ad1-4b44-b034-28626e65d18b.png" class="centerImage" alt="Banner" height="300" width="970"></p>
 
 <p><br/></p>
 
