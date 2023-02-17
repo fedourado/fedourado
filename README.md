@@ -1,16 +1,15 @@
-### Hi there 👋
+### Oi, bem-vindo(a) ao meu perfil do GitHub 👋 :woman_technologist:
 
-<!--
-**fedourado/fedourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/102569427/219814019-b9c26c5b-8ad1-4b44-b034-28626e65d18b.png" class="centerImage" alt="Banner" height="300" width="990"></p>
 
-Here are some ideas to get you started:
+<p><br/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify"> Busco, por meio da programação, desenvolver soluções para problemas que afetam experiências. Atualmente, sou graduanda em Ciência da Computação e tenho me dedicado especialmente ao estudo de Node.js e banco de dados. Além disso, participei de um projeto acadêmico voltado para o desenvolvimento de um sistema bibliotecário em Java. Além disso, ter sido vice-líder da turma me permitiu aprimorar minhas habilidades de comunicação, lidar com maiores responsabilidades e solucionar problemas de forma eficaz.</p>
+
+<p><br/></p>
+
+### Encontre-me na web:computer::
+* :red_haired_woman: Linkdin: https://www.linkedin.com/in/fernanda-dourado-ms/
+* :email: Gmail: fernandadourado.m.s@gmail.com
+
+
