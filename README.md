@@ -1,6 +1,8 @@
 ### Oi, bem-vindo(a) ao meu perfil do GitHub 👋 :woman_technologist:
 
-<img src="https://user-images.githubusercontent.com/102569427/219814019-b9c26c5b-8ad1-4b44-b034-28626e65d18b.png" class="centerImage" alt="Banner" height="330" width="960"></p>
+<div align="center">
+<img src="https://github.com/fedourado/fedourado/assets/102569427/0e348f49-bad5-4624-ade4-21983934bfb8" width="700px" />
+</div>
 
 <p><br/></p>
 
